@@ -26,4 +26,4 @@ Una de las ventajas de ser un Coderetreat remoto es que no tenemos aforo máximo
 
 No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para facilitar el trabajo a la hora de probar nuevos lenguajes y entornos, os hemos preparado una serie de presets.
 
-- [JavaScript](javascript)
+- [JavaScript](presets/javascript)
