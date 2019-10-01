@@ -1,0 +1,7 @@
+{
+  "nombre": "Ricardo Borillo",
+  "twitter": "borillo",
+  "ciudad": "Castellón",
+  "dirigir": [ "java", "javascript", "python" ],
+  "aprender": [ "haskell", "scala", "kotlin" ]
+}
