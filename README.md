@@ -18,7 +18,7 @@ Una de las ventajas de ser un Coderetreat remoto es que no tenemos aforo máximo
   "twitter": "Tu handler de twitter sin la @",
   "ciudad": "Desde que ciudad del mundo te conectarás",
   "dirigir": [ "lenguaje que dominio", "lenguaje que dominio" ],
-  "aprender: [ "lenguaje que quiero aprender", "lenguaje que quiero aprender" ]
+  "aprender": [ "lenguaje que quiero aprender", "lenguaje que quiero aprender" ]
 }
 ```
 
