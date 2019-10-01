@@ -1,0 +1,14 @@
+{
+  "name": "gdcr-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
