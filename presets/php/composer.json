@@ -1,0 +1,17 @@
+{
+    "name": "remotecoderetreat/gameoflife",
+    "description": "The Game Of Life preset in PHP for the Global Day of Code Retreat",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "require": {},
+    "scripts": {
+        "test": "phpunit --bootstrap vendor/autoload.php tests/GameOfLifeTest.php"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kata\\": "src/"
+        }
+
+    }
+}
