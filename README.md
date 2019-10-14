@@ -31,3 +31,45 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Typescript](presets/typescript)
 - [PHP](presets/php)
 - [Elm](presets/elm)
+
+# ¿Qué tengo que tener instalado ?
+
+Para simplificar la interacción entre los asistentes, hemos elegido [Visual Studio Code](https://code.visualstudio.com/) como IDE de referencia a utilizar durante el evento. 
+
+El motivo principal es que su extensión [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) permite la colaboración en tiempo real de una forma sencilla y efectiva.
+
+![Live Share](https://code.visualstudio.com/assets/blogs/2017/11/15/vs-code-ls-session.png)
+
+Podéis encontrar más detalles sobre su funcionamiento [aquí](https://code.visualstudio.com/blogs/2017/11/15/live-share).
+
+# ¿Qué haremos durante el Remote Coderetreat?
+
+La idea es poder realizar varias iteraciones de 45 minutos y poder ir cambiando de pareja y lenguaje en cada iteración. Después de cada iteración, haremos una mini-retro para poner en común ideas y avances.
+
+A continuación, podrés encontrar una agenda provisional. Es posible que haya modificaciones durante los días previos al evento, así que consultala de nuevo cuando se acerque el día del evento.
+
+```
+09:00 - Presentación breve y confeccionar parejas
+09:30 - Primera iteración
+10:15 - Retro
+10:30 - Segunda iteración
+11:15 - Retro
+11:30 - Almuerzo
+12:00 - Tercera iteración
+12:45 - Retro
+13:00 - Cuarta iteración
+13:45 - Retro final
+```
+
+# ¿Cómo nos coordinaremos durante el evento?
+
+Vamos a utilizar slack como herramienta de coordinación. Para poder comenzar a utilizarlo, únete primero [aquí](https://join.slack.com/t/remotecoderetreat/shared_invite/enQtNzk0MDA0NDUwMDA0LTJjMDlhYjY0NTQ0NzZkZTk0MTFjYmRkYTYzOGQ1ZDYxMGI5ZGRjMzJkZjRhNThkNDQ4Y2EzZWNmZDQyOGExY2Q).
+
+Durante el evento utilizaremos slack para lanzar avisos y coordinarnos a la hora de cambiar de pareja en cada iteración.
+
+# ¿Qué problema vamos a abordar?
+
+Es costumbre que en los Coderetreats la kata elegida sea el [Juego de la Vida de Conway](https://www.coderetreat.org/pages/facilitating/gol/). Como has podido comprobar en la agenda, no hay un slot concreto para explicar la kata, así que asegúrate de haberla leído y entendido antes del día del evento. 
+
+Tienes una descripción completa de la misma [aquí](https://www.coderetreat.org/pages/facilitating/gol/).
+
