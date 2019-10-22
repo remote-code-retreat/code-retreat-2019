@@ -1,0 +1,7 @@
+{
+    "nombre": "David Matas",
+    "twitter": "davidmatas",
+    "ciudad": "Granada",
+    "dirigir": [ "typescript", "javascript" ],
+    "aprender": [ "scala", "kotlin", "go" ]
+}
