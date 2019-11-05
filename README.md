@@ -10,17 +10,20 @@ En 2019, el [Global Day of the Coderetreat](https://www.coderetreat.org/) se org
 
 # ¿Cómo puedo participar?
 
-Una de las ventajas de ser un Coderetreat remoto es que no tenemos aforo máximo, por lo que si quieres participar únicamente tienes que completar la inscripción enviándonos un *pull request* con tus datos siguiendo este JSON al directorio `people`:
+Una de las ventajas de ser un Coderetreat remoto es que no tenemos aforo máximo, aunque para esta edición vamos a limitarlo a 100 personas. Si quieres participar únicamente tienes que completar la inscripción enviándonos un *pull request* con tus datos siguiendo este JSON al directorio `people`:
 
 ```json
 {
   "nombre": "Tu nombre completo",
   "twitter": "Tu handler de twitter sin la @",
+  "slack": "@TuHandleDeSlack",
   "ciudad": "Desde que ciudad del mundo te conectarás",
   "dirigir": [ "lenguaje que dominio", "lenguaje que dominio" ],
   "aprender": [ "lenguaje que quiero aprender", "lenguaje que quiero aprender" ]
 }
 ```
+
+Vamos a utilizar slack como herramienta de coordinación. Para poder comenzar a utilizarlo, únete [aquí a este Slack](https://join.slack.com/t/remotecoderetreat/shared_invite/enQtNzk0MDA0NDUwMDA0LTJjMDlhYjY0NTQ0NzZkZTk0MTFjYmRkYTYzOGQ1ZDYxMGI5ZGRjMzJkZjRhNThkNDQ4Y2EzZWNmZDQyOGExY2Q).
 
 # ¿En qué lenguaje se programará?
 
@@ -41,6 +44,8 @@ El motivo principal es que su extensión [Live Share](https://marketplace.visual
 ![Live Share](https://code.visualstudio.com/assets/blogs/2017/11/15/vs-code-ls-session.png)
 
 Podéis encontrar más detalles sobre su funcionamiento [aquí](https://code.visualstudio.com/blogs/2017/11/15/live-share).
+
+Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). Para unirte a la llamada, tendrás que instalar el software, pero no es necesario tener una cuenta.
 
 # ¿Qué haremos durante el Remote Coderetreat?
 
@@ -63,9 +68,9 @@ A continuación, podrés encontrar una agenda provisional. Es posible que haya m
 
 # ¿Cómo nos coordinaremos durante el evento?
 
-Vamos a utilizar slack como herramienta de coordinación. Para poder comenzar a utilizarlo, únete primero [aquí](https://join.slack.com/t/remotecoderetreat/shared_invite/enQtNzk0MDA0NDUwMDA0LTJjMDlhYjY0NTQ0NzZkZTk0MTFjYmRkYTYzOGQ1ZDYxMGI5ZGRjMzJkZjRhNThkNDQ4Y2EzZWNmZDQyOGExY2Q).
-
 Durante el evento utilizaremos slack para lanzar avisos y coordinarnos a la hora de cambiar de pareja en cada iteración.
+
+Mantendremos una videollamada utilizando Zoom. La vídeollamada de Zoom estará siempre abierta para que cualquier persona pueda unirse en cualquier momento y la compartiremos a través de Slack.
 
 # ¿Qué problema vamos a abordar?
 

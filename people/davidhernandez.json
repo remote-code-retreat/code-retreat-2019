@@ -1,6 +1,7 @@
 {
     "nombre": "David Hernandez",
     "twitter": "David_Baltha",
+    "slack": "David Hernandez",
     "ciudad": "Valencia",
     "dirigir": [ "php", "elm", "javascript" ],
     "aprender": [ "typescript" ]
