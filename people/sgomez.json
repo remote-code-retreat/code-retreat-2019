@@ -1,0 +1,8 @@
+{
+  "nombre": "Sergio Gómez",
+  "twitter": "sgomez",
+  "slack": "@sgomez",
+  "ciudad": "Córdoba, España",
+  "dirigir": [ "php", "python", "typescript" ],
+  "aprender": [ "go" ]
+}
