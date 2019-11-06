@@ -1,0 +1,8 @@
+{
+    "nombre": "Jaime Perera",
+    "twitter": "jaimeperera",
+    "slack": "Jaime Perera",
+    "ciudad": "Castellón",
+    "dirigir": [ "java", "javascript"],
+    "aprender": [ "kotlin" , "elm", "haskell", "scala" ]
+}
