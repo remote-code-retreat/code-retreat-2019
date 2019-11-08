@@ -66,6 +66,10 @@ A continuación, podrás encontrar una agenda provisional. Es posible que haya m
 13:45 - Retro final
 ```
 
+El coderetreat será facilitado por [Xavi Gost](https://twitter.com/xav1uzz):
+
+<img src="https://redflag.es/images/team/xavi.jpeg" width="200" />
+
 # ¿Cómo nos coordinaremos durante el evento?
 
 Durante el evento utilizaremos slack para lanzar avisos y coordinarnos a la hora de cambiar de pareja en cada iteración.
