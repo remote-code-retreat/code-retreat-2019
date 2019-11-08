@@ -34,6 +34,12 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Typescript](presets/typescript)
 - [PHP](presets/php)
 - [Elm](presets/elm)
+- [Elixir](presets/elixir)
+- [Python](presets/python)
+- Ruby (disponible en breve)
+- Kotlin (disponible en breve)
+
+¿Tu lenguaje favorito no está entre los presets disponibles? Envíanos un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) y lo incorporaremos a la lista :)
 
 # ¿Qué tengo que tener instalado ?
 
