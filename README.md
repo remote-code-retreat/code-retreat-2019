@@ -43,6 +43,8 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 
 # ¿Qué tengo que tener instalado ?
 
+## Visual Studio Code
+
 Para simplificar la interacción entre los asistentes, hemos elegido [Visual Studio Code](https://code.visualstudio.com/) como IDE de referencia a utilizar durante el evento.
 
 El motivo principal es que su extensión [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) permite la colaboración en tiempo real de una forma sencilla y efectiva.
@@ -50,6 +52,8 @@ El motivo principal es que su extensión [Live Share](https://marketplace.visual
 ![Live Share](https://code.visualstudio.com/assets/blogs/2017/11/15/vs-code-ls-session.png)
 
 Podéis encontrar más detalles sobre su funcionamiento [aquí](https://code.visualstudio.com/blogs/2017/11/15/live-share).
+
+## Zoom 
 
 Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). Para unirte a la llamada, tendrás que instalar el software, pero no es necesario tener una cuenta.
 
