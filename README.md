@@ -6,7 +6,7 @@ El formato del Coderetreat comporta una serie de restricciones que nos auto-impo
 
 Principalmente la actividad del evento se centra en completar múltiples iteraciones de 45 minutos de duración, por parejas y haciendo TDD, de forma que nuestro foco se centre siempre en las formas y no en completar un problema que es bastante complejo ya por si y que sólo nos sirve como hilo conductor del evento: [El juego de la vida de Conway](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-En 2019, el [Global Day of the Coderetreat](https://www.coderetreat.org/) se organiza a nivel mundial el 16 de Noviembre y, aunque habitualmente los Coderetreat se realizan en un localización física y se hacen "cara a cara", nuestro objetivo es destilar la esencia de este tipo de eventos para trasladala al plano remoto.
+En 2019, el [Global Day of the Coderetreat](https://www.coderetreat.org/) se organiza a nivel mundial el 16 de Noviembre y, aunque habitualmente los Coderetreat se realizan en un localización física y se hacen "cara a cara", nuestro objetivo es destilar la esencia de este tipo de eventos para trasladarla al plano remoto.
 
 # ¿Cómo puedo participar?
 
@@ -37,7 +37,7 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 
 # ¿Qué tengo que tener instalado ?
 
-Para simplificar la interacción entre los asistentes, hemos elegido [Visual Studio Code](https://code.visualstudio.com/) como IDE de referencia a utilizar durante el evento. 
+Para simplificar la interacción entre los asistentes, hemos elegido [Visual Studio Code](https://code.visualstudio.com/) como IDE de referencia a utilizar durante el evento.
 
 El motivo principal es que su extensión [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) permite la colaboración en tiempo real de una forma sencilla y efectiva.
 
@@ -51,7 +51,7 @@ Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). 
 
 La idea es poder realizar varias iteraciones de 45 minutos y poder ir cambiando de pareja y lenguaje en cada iteración. Después de cada iteración, haremos una mini-retro para poner en común ideas y avances.
 
-A continuación, podrés encontrar una agenda provisional. Es posible que haya modificaciones durante los días previos al evento, así que consultala de nuevo cuando se acerque el día del evento.
+A continuación, podrás encontrar una agenda provisional. Es posible que haya modificaciones durante los días previos al evento, así que consultala de nuevo cuando se acerque el día del evento.
 
 ```
 09:00 - Presentación breve y confeccionar parejas
@@ -74,7 +74,6 @@ Mantendremos una videollamada utilizando Zoom. La vídeollamada de Zoom estará 
 
 # ¿Qué problema vamos a abordar?
 
-Es costumbre que en los Coderetreats la kata elegida sea el [Juego de la Vida de Conway](https://www.coderetreat.org/pages/facilitating/gol/). Como has podido comprobar en la agenda, no hay un slot concreto para explicar la kata, así que asegúrate de haberla leído y entendido antes del día del evento. 
+Es costumbre que en los Coderetreats la kata elegida sea el [Juego de la Vida de Conway](https://www.coderetreat.org/pages/facilitating/gol/). Como has podido comprobar en la agenda, no hay un slot concreto para explicar la kata, así que asegúrate de haberla leído y entendido antes del día del evento.
 
 Tienes una descripción completa de la misma [aquí](https://www.coderetreat.org/pages/facilitating/gol/).
-
