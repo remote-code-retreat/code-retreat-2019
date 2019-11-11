@@ -36,6 +36,7 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Elm](presets/elm)
 - [Elixir](presets/elixir)
 - [Python](presets/python)
+- [Scala](presets/scala)
 - Ruby (disponible en breve)
 - Kotlin (disponible en breve)
 
