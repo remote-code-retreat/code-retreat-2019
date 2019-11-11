@@ -1,12 +1,11 @@
-# Code Retreat con Java
+# Code Retreat con Scala
 
 Se recomienda el uso de este proyecto base para la implementación del código del Code Retreat, pero en caso de tener instalado IntelliJ o cualquier otro IDE con soporte para Scala se puede crear un projecto de ``sbt`` fácilmente. También se pueden crear projectos de `sbt` con la ejecución del comando `sbt new scala/scalatest-example.g8`, pero este no tendrá añadidas por defecto las dependencias que hemos configurado para este proyecto y que te pueden ser de utilidad.
 
 ## Requisitos previos
 
-* IntelliJ. El soporte para Visual Studio Code comparado con IntelliJ es bastante malo, por lo que recomiendo tener instalado este IDE en caso de que lo necesitemos.
 * Java.
-* SBT.
+* SBT. Para instalar sbt en mac puedes usar ```brew install sbt``` o si tienes problemas en Catalina puedes usar sdk install sbt
 
 ## Ejecutar los tests
 
@@ -24,8 +23,5 @@ Hay algunos comandos de `sbt` que te pueden ser muy útiles:
 
 ## Extensiones de VSCode Studio Code recomendadas
 
-* Scala (Metals).
-
-## Plugins de IntelliJ recomendados
-
-* Scala Plugin.
+* Scala para Visual Studio Code ```Scala Syntax (official)``` para coloreado de la sintaxis
+* Scala (Metals). Este plugin de Scala da soporte para autocompletado y snippets 

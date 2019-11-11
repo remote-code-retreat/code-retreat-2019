@@ -1,2 +1,5 @@
 .gradle
 presets/kotlin/build
+.scalafmt.conf
+.metals
+target
