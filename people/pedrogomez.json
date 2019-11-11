@@ -1,0 +1,8 @@
+{
+  "nombre": "Pedro Gómez",
+  "twitter": "pedro_g_s",
+  "slack": "Pedro Gómez",
+  "ciudad": "Málaga",
+  "dirigir": [ "scala", "kotlin" ],
+  "aprender": [ "typescript", "go ]
+}
