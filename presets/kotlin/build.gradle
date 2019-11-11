@@ -1,0 +1,29 @@
+buildscript {
+    ext.kotlin_version = '1.2.71'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+apply plugin: 'kotlin'
+kotlin {
+
+}
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    compile "org.jetbrains.kotlinx:kotlinx-coroutines-core:0.21"
+    testImplementation(
+            'org.assertj:assertj-core:3.12.2',
+            'org.junit.jupiter:junit-jupiter-api:5.4.2'
+    )
+    testRuntime('org.junit.jupiter:junit-jupiter-engine:5.4.2')
+}
+
+test {
+    useJUnitPlatform()
+}
