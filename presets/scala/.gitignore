@@ -23,7 +23,7 @@ build
 
 .vscode/*
 *.code-workspace
-.metals/*.db
+.metals/*
 .bloop
 
 # mac
