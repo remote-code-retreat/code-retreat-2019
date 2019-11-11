@@ -1,4 +1,4 @@
-# Code Retreat con Java
+# Code Retreat con Kotlin
 
 Se recomienda el uso de este proyecto base para la implementación del código del Code Retreat si se quiere utilizar Kotlin como plataforma.
 
