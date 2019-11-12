@@ -42,7 +42,7 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 
 ¿Tu lenguaje favorito no está entre los presets disponibles? Envíanos un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) y lo incorporaremos a la lista :)
 
-# ¿Qué tengo que tener instalado ?
+# ¿Qué tengo que tener instalado?
 
 ## Visual Studio Code
 
@@ -54,13 +54,24 @@ El motivo principal es que su extensión [Live Share](https://marketplace.visual
 
 Podéis encontrar más detalles sobre su funcionamiento [aquí](https://code.visualstudio.com/blogs/2017/11/15/live-share).
 
-## Zoom 
+Alrededor de Live Share, han surgido otras extensiones. De todas ellas, tambien utilizaremos la de [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio), que nos permite mantener una conversación hablada con nuestra pareja.
+
+Si quieres instalar todas los plugins de Live Share que vamos a utilizar, más alguno que también está bastante bien, puedes hacerlo instalando únicamente el [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
+
+## Zoom
 
 Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). Para unirte a la llamada, tendrás que instalar el software, pero no es necesario tener una cuenta.
 
 ## Slack
 
 Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Consulta los apartados de **¿Cómo puedo participar?** o **¿Cómo nos coordinaremos durante el evento?** para más detalles.
+## Resumen
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
+- [Zoom](https://zoom.us/)
+- [Slack](https://slack.com)
 
 # ¿Qué haremos durante el Remote Coderetreat?
 
@@ -101,3 +112,10 @@ Es costumbre que en los Coderetreats la kata elegida sea el [Juego de la Vida de
 ![Reglas del juego de la vida](rules.png)
 
 Tienes una descripción completa de la misma [aquí](https://www.coderetreat.org/pages/facilitating/gol/).
+
+## Reglas básicas
+
+- Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
+- Any live cell with more than three live neighbours dies, as if by overcrowding.
+- Any live cell with two or three live neighbours lives on to the next generation.
+- Any dead cell with exactly three live neighbours becomes a live cell.
