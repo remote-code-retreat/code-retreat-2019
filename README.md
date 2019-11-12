@@ -193,7 +193,7 @@ Esperamos que los participantes sigan estas reglas en el evento, talleres y otro
 aspectos relacionados con el evento.
 
 
-Fuente original y créditos (se han realizado modificaciones eliminiando aquellas cosas que no encajan con un evento virutal):
+Fuente original y créditos (se han realizado modificaciones eliminiando aquellas cosas que no encajan con un evento virtual):
 
 + [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about)
 
