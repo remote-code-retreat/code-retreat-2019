@@ -58,6 +58,10 @@ Podéis encontrar más detalles sobre su funcionamiento [aquí](https://code.vis
 
 Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). Para unirte a la llamada, tendrás que instalar el software, pero no es necesario tener una cuenta.
 
+## Slack
+
+Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Consulta los apartados de **¿Cómo puedo participar?** o **¿Cómo nos coordinaremos durante el evento?** para más detalles.
+
 # ¿Qué haremos durante el Remote Coderetreat?
 
 La idea es poder realizar varias iteraciones de 45 minutos y poder ir cambiando de pareja y lenguaje en cada iteración. Después de cada iteración, haremos una mini-retro para poner en común ideas y avances.
