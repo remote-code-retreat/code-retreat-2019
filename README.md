@@ -65,6 +65,7 @@ La idea es poder realizar varias iteraciones de 45 minutos y poder ir cambiando 
 A continuación, podrás encontrar una agenda provisional. Es posible que haya modificaciones durante los días previos al evento, así que consultala de nuevo cuando se acerque el día del evento.
 
 ```
+08:30 - Configura tu entorno: Slot reservado para configuración y pruebas de conexión
 09:00 - Presentación breve y confeccionar parejas
 09:30 - Primera iteración
 10:15 - Retro
