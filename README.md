@@ -36,9 +36,9 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Elm](presets/elm)
 - [Elixir](presets/elixir)
 - [Python](presets/python)
+- [Kotlin](presets/kotlin)
 - [Scala](presets/scala)
 - Ruby (disponible en breve)
-- Kotlin (disponible en breve)
 
 ¿Tu lenguaje favorito no está entre los presets disponibles? Envíanos un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) y lo incorporaremos a la lista :)
 
@@ -90,5 +90,7 @@ Mantendremos una videollamada utilizando Zoom. La vídeollamada de Zoom estará 
 # ¿Qué problema vamos a abordar?
 
 Es costumbre que en los Coderetreats la kata elegida sea el [Juego de la Vida de Conway](https://www.coderetreat.org/pages/facilitating/gol/). Como has podido comprobar en la agenda, no hay un slot concreto para explicar la kata, así que asegúrate de haberla leído y entendido antes del día del evento.
+
+![Reglas del juego de la vida](rules.png)
 
 Tienes una descripción completa de la misma [aquí](https://www.coderetreat.org/pages/facilitating/gol/).
