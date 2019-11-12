@@ -84,9 +84,11 @@ El coderetreat será facilitado por [Xavi Gost](https://twitter.com/xav1uzz):
 
 # ¿Cómo nos coordinaremos durante el evento?
 
-Durante el evento utilizaremos slack para lanzar avisos y coordinarnos a la hora de cambiar de pareja en cada iteración.
+Durante el evento utilizaremos Slack para lanzar avisos y coordinarnos a la hora de cambiar de pareja en cada iteración.
 
 Mantendremos una videollamada utilizando Zoom. La vídeollamada de Zoom estará siempre abierta para que cualquier persona pueda unirse en cualquier momento y la compartiremos a través de Slack.
+
+En Slack se han creado tantos canales como presets hay disponibles. Únete a los que más te interesen para estar informado de problemas de configuración o información interesante relativa a tu lenguaje.
 
 # ¿Qué problema vamos a abordar?
 
