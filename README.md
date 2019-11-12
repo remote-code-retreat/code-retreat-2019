@@ -143,7 +143,7 @@ Tienes una descripción completa de la misma [aquí](https://www.coderetreat.org
 
 
 Se requiere que todos los asistentes, ponentes y
-voluntarios de nuestra conferencia acepten el siguiente código de
+voluntarios de nuestro evento acepten el siguiente código de
 conducta. Los organizadores harán cumplir este código a lo largo del
 evento. Esperamos la colaboración de todos los participantes para ayudar a
 asegurar un ambiente seguro para todos.
@@ -152,13 +152,13 @@ asegurar un ambiente seguro para todos.
 ## La Versión Rápida
 
 
-Nuestra conferencia se dedica a ofrecer una experiencia libre de abusos
+Nuestro evento se dedica a ofrecer una experiencia libre de abusos
 para todos, independientemente de su género, orientación sexual,
 discapacidad, apariencia física, talla, raza o religión. No toleramos
-abusos de los participantes de la conferencia en ninguna de sus formas. El
+abusos de los participantes del evento en ninguna de sus formas. El
 lenguaje e imágenes sexuales no son apropiados para ninguna sala del
 evento, incluyendo charlas, talleres, Twitter y otros medios
-online. Los participantes de la conferencia que violen estas reglas pueden
+online. Los participantes del evento que violen estas reglas pueden
 ser sancionados o expulsados de la misma a discreción de los organizadores.
 
 
@@ -175,12 +175,12 @@ Se espera que los participantes instados a parar cualquier comportamiento
 abusivo obedezcan inmediatamente.
 
 Si un participante incurre en un comportamiento abusivo, los organizadores
-de la conferencia pueden tomar cualquier acción que estimen oportuna,
+del evento pueden tomar cualquier acción que estimen oportuna,
 incluyendo advertencias al ofensor o su expulsión del evento
 
 Si estás sufriendo algún abuso, adviertes abusos sobre otra persona, o
 tienes alguna otra preocupación, por favor contacta con algún miembro del
-personal de la conferencia inmediatamente. El personal de la conferencia
+personal del evento inmediatamente. El personal del evento
 puede ser fácilmente identificado, tanto a traves de los miembros de GitHub
 como en slack.
 
@@ -190,7 +190,7 @@ que estén sufriendo abusos para que se sientan seguros mientras dure el evento.
 Valoramos tu asistencia.
 
 Esperamos que los participantes sigan estas reglas en el evento, talleres y otros
-aspectos relacionados con la conferencia.
+aspectos relacionados con el evento.
 
 
 Fuente original y créditos (se han realizado modificaciones eliminiando aquellas cosas que no encajan con un evento virutal):
