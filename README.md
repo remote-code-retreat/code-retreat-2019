@@ -65,6 +65,7 @@ Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). 
 ## Slack
 
 Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Consulta los apartados de **¿Cómo puedo participar?** o **¿Cómo nos coordinaremos durante el evento?** para más detalles.
+
 ## Resumen
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -75,7 +76,23 @@ Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Cons
 
 # ¿Qué haremos durante el Remote Coderetreat?
 
-La idea es poder realizar varias iteraciones de 45 minutos y poder ir cambiando de pareja y lenguaje en cada iteración. Después de cada iteración, haremos una mini-retro para poner en común ideas y avances.
+## Iteraciones
+
+Realizaremos varias iteraciones de **45 minutos**, cambiando de pareja y/o lenguaje después de cada iteración. Al finalizar la iteración haremos una mini retrospectiva para poner en común ideas y avances.
+
+## Creación de parejas
+
+Para llevar un control de las parejas creadas en cada iteración hemos creado un [excel compartido en Google Sheets](https://docs.google.com/spreadsheets/d/1BSh9xbjbkV4NSX753qbSqiuC6kwn_1-IkBE2p43FXeo/edit?usp=sharing).
+
+El documento tiene 4 hojas, una por iteración. En cada iteración identificaremos a las personas que van dirigir y a sus parejas utilizando el identificador de usuario de Slack de ambos. Adicionalmente, se indicará para cada pareja el lenguaje en el que van a trabajar y la URL de Visual Studio Code donde se llevará a cabo la sesión.
+
+Es responsabilidad del que dirige el dar de alta su usuario, lenguaje y URL de Visual Studio Code en el documento.
+
+A la hora de definir quien será su pareja durante la iteración, utilizaremos Slack para coordinarnos. 
+
+> Si no quieres participar en una sesión de forma directa pero quieres aprender viendo como desarrollan otros, te puedes conectar a la URL de la sesión y asistir como oyente
+
+## Planning
 
 A continuación, podrás encontrar una agenda provisional. Es posible que haya modificaciones durante los días previos al evento, así que consultala de nuevo cuando se acerque el día del evento.
 
@@ -92,6 +109,8 @@ A continuación, podrás encontrar una agenda provisional. Es posible que haya m
 13:00 - Cuarta iteración
 13:45 - Retro final
 ```
+
+## Facilitador
 
 El coderetreat será facilitado por [Xavi Gost](https://twitter.com/xav1uzz):
 
