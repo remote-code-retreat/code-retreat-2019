@@ -38,7 +38,7 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Python](presets/python)
 - [Kotlin](presets/kotlin)
 - [Scala](presets/scala)
-- Ruby (disponible en breve)
+- [Ruby](presets/ruby)
 
 ¿Tu lenguaje favorito no está entre los presets disponibles? Envíanos un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) y lo incorporaremos a la lista :)
 
