@@ -1,0 +1,8 @@
+{
+    "nombre": "Mike San Román",
+    "twitter": "@msanromanv",
+    "slack": "@mike",
+    "ciudad": "Barcelona",
+    "dirigir": ["javascript"],
+    "aprender": [ "python", "go" ]
+}
