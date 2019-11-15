@@ -66,6 +66,17 @@ Cuando tengamos que hablar todos juntos, utilizaremos [Zoom](https://zoom.us/). 
 
 Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Consulta los apartados de **¿Cómo puedo participar?** o **¿Cómo nos coordinaremos durante el evento?** para más detalles.
 
+## Cuckoo
+
+Es una web app para medir el tiempo de las iteraciones e intervalos entre ellas. 
+
+Al inicio de cada iteración comenzaremos un pomodoro de 45 minutos y al terminar se emite una notificación en el browser.
+No se necesita instalar nada, solo abrir esta web, para ver el tiempo que queda hasta la siguiente iteracion:
+
+https://cuckoo.team/remote-code-retreat
+
+Para los periodos de retro después de cada sesión y almuerzo también se lanzara un timer de 15 y 30 minutos respectivamente.
+
 ## Resumen
 
 - [Visual Studio Code](https://code.visualstudio.com/)
