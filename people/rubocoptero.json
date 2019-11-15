@@ -1,0 +1,8 @@
+{
+  "nombre": "Rubén Antón",
+  "twitter": "rubocoptero",
+  "slack": "@rubocoptero",
+  "ciudad": "Alicante",
+  "dirigir": [ "ruby" ],
+  "aprender": [ "javascript", "typescript", "haskell" ]
+}
