@@ -39,6 +39,7 @@ No hay restricción en cuanto al lenguaje a emplear. En cualquier caso y para fa
 - [Kotlin](presets/kotlin)
 - [Scala](presets/scala)
 - [Ruby](presets/ruby)
+- [Golang](presets/golang)
 
 ¿Tu lenguaje favorito no está entre los presets disponibles? Envíanos un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) y lo incorporaremos a la lista :)
 
@@ -68,7 +69,7 @@ Utilizaremos [Slack](https://slack.com/) como herramienta de coordinación. Cons
 
 ## Cuckoo
 
-Es una web app para medir el tiempo de las iteraciones e intervalos entre ellas. 
+Es una web app para medir el tiempo de las iteraciones e intervalos entre ellas.
 
 Al inicio de cada iteración comenzaremos un pomodoro de 45 minutos y al terminar se emite una notificación en el browser.
 No se necesita instalar nada, solo abrir esta web, para ver el tiempo que queda hasta la siguiente iteracion:
@@ -99,7 +100,7 @@ El documento tiene 4 hojas, una por iteración. En cada iteración identificarem
 
 Es responsabilidad del que dirige el dar de alta su usuario, lenguaje y URL de Visual Studio Code en el documento.
 
-A la hora de definir quien será su pareja durante la iteración, utilizaremos Slack para coordinarnos. 
+A la hora de definir quien será su pareja durante la iteración, utilizaremos Slack para coordinarnos.
 
 > Si no quieres participar en una sesión de forma directa pero quieres aprender viendo como desarrollan otros, te puedes conectar a la URL de la sesión y asistir como oyente
 
